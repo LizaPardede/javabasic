@@ -20,4 +20,4 @@ a directory  then open your netbeans IDE. Choose Open Existing Project.
 
 
 **Contact Us:**
-- [iman] (http://bxcodec.github.io)
+- [Iman] (http://bxcodec.github.io)
